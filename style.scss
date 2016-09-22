@@ -18,7 +18,7 @@ html {
 }
 
 body {
-	background: url("http://www.texturezine.com/wp-content/uploads/2014/05/turquoise-polygon.jpg");
+	background: #0000ff ;
   font: 18px/1.4 $helvetica;
   color: #ffffff;
 }
@@ -73,7 +73,7 @@ a {
   text-decoration: none;
 	cursor: pointer;
   &:hover, &:active {
-    color: $blue;
+    color: #cccccc;
   }
 }
 
