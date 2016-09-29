@@ -28,7 +28,7 @@ published: true
   <tr>
     <td>Did I reach my target? 
 (add details to "Lesson Review")</td>
-    <td> yes i managed to finish making my website and testing using gabriel</td>
+    <td> Yes i managed to finish making my website and testing using gabriel</td>
   </tr>
 </table>
 
@@ -41,19 +41,23 @@ published: true
     <td>How did I learn? What strategies were effective? </td>
   </tr>
   <tr>
-    <td>in this lesson i learnt how to put a google doc onto github.io using a program called gabriel. The strategies i used to use this as a piece of my learning included, listening to the teacher to understand the instructions clearly, made sure to make notes as Mr Keen was talking so i didn't forget and so i could use it for any later use in upcoming lessons.</td>
+    <td>In this lesson, I learnt how to put a Google Doc onto Github.io using a program called Gabriel. The strategies I used include:
+Listening to the teacher;
+Understanding the instructions clearly;
+Making notes as the teacher was talking.
+In future lessons, I will be using these strategies to help me with making my website.</td>
   </tr>
   <tr>
     <td>What limited my learning? Which habits do I need to work on? </td>
   </tr>
   <tr>
-    <td>the things which limited my learning include not taking down notes with enough detail resulting in me having to ask questions to people next to me and i need to work on attention to detail as the habit i need to improve so i don't need to frequently ask questions.</td>
+    <td>The things which limited my learning include not taking down notes with sufficient detail which resulted in me having to ask questions to people next to me. Therefore I need to work on attention to detail which corresponds to the habit of accuracy meaning I need to work on that so I don't have to frequently ask questions.</td>
   </tr>
   <tr>
     <td>What will I change for next time? How will I improve my learning?</td>
   </tr>
   <tr>
-    <td>next time i will take more detailed and descriptive notes meaning i can get the work done quicker and more effectively, also i need to be more independent so i don't distract others.</td>
+    <td>Next time I will take more detailed and descriptive notes meaning I can get the work done quicker and more effectively, also I need to be more independent so I don't distract others when asking questions.</td>
   </tr>
 </table>
 
