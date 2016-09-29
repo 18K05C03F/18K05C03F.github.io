@@ -28,7 +28,7 @@ published: true
   <tr>
     <td>Did I reach my target? 
 (add details to "Lesson Review")</td>
-    <td> to an extent</td>
+    <td> To an extent</td>
   </tr>
 </table>
 
@@ -41,19 +41,19 @@ published: true
     <td>How did I learn? What strategies were effective? </td>
   </tr>
   <tr>
-    <td>i learnt by taking detailed notes of what my teacher was talking about and how to edit and customise my Github website. An effective strategy I used included taking notes and asking questions to people around me about things i was unsure about.</td>
+    <td>I learnt by taking detailed notes of what my teacher was talking about and how to edit and customise my Github website resulting in me being able to improve my website. An effective strategy I used included taking notes and asking questions to people around me about things I was unsure about.</td>
   </tr>
   <tr>
     <td>What limited my learning? Which habits do I need to work on? </td>
   </tr>
   <tr>
-    <td>the things which limited my learning was that i did not write down what every piece of code did and how to edit and customise them to my preference. This means that i need to work on habit of noticing and accuracy.</td>
+    <td>The things which limited my learning was that I did not write down what every piece of code did and how to edit and customise them to my preference. This means that I need to work on habit of noticing and accuracy.</td>
   </tr>
   <tr>
     <td>What will I change for next time? How will I improve my learning?</td>
   </tr>
   <tr>
-    <td> For next time i will try to remember key pieces of code so that my website will improve and look more professional.</td>
+    <td>For next time I will try to remember/write key pieces of code so that my website will improve and look more professional.</td>
   </tr>
 </table>
 
