@@ -18,7 +18,7 @@ html {
 }
 
 body {
-	background: url("http://wallpapers.androlib.com/wallicons/wallpaper.big-ipD.cs.png") ;
+	background: #062f4f;
   font: 18px/1.4 $helvetica;
   color: #ffffff;
 }
@@ -68,6 +68,10 @@ td {
     color: white;
 }
 
+th {
+    background-color: #4CAF50;
+    color: white;
+}
 
 
 h1, h2, h3, h4, h5, h6 {
