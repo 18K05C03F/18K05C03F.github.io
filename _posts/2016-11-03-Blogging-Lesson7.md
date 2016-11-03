@@ -56,5 +56,5 @@ published: true
     <td>Next time I will take more detailed notes. For example, if I have taken down a piece of code next to it I will write down its significance and use so I don't forget later on in the lesson.</td>
   </tr>
 </table>
-
+<iframe src="https://docs.google.com/spreadsheets/d/1xYR58g58r2Dlj9snMO8ZRraML33oscNC_qV9OITGTu0/pubhtml?widget=true&amp;headers=false"></iframe>
 
