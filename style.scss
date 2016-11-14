@@ -33,7 +33,13 @@ body {
 table {
     border-collapse: collapse;
 }
+table {
+    width: 100%;
+}
 
+th {
+    height: 50px;
+}
 table, th, td {
     border: 1px solid #ff0000;
 }
