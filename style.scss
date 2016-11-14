@@ -43,7 +43,10 @@ th {
 table, th, td {
     border: 1px solid #ff0000;
 }
-
+td {
+    height: 50px;
+    vertical-align: bottom;
+}
 td {
     background-color: utl("http://wallpapers.androlib.com/wallicons/wallpaper.big-ipD.cs.png");
     color: #1ad1ff;
