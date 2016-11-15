@@ -362,7 +362,7 @@ ul.img-list li:hover span.text-content {
 span.text-content { 
 	background: rgba(0,0,0,0.5); 
 	color: white; 
-	cursor: pointer; 
+	cursor: pointer;
 	height: 350px; 
 	left: 0;
 	position: absolute; 
@@ -373,4 +373,16 @@ span.text-content {
 	-moz-transition: opacity 500ms;
 	-o-transition: opacity 500ms;
 	transition: opacity 500ms;
+}
+
+span.text-content {
+	background: rgba(0,0,0,0.5);
+	color: white;
+	cursor: pointer;
+	display: table;
+	height: 150px; 
+	left: 0; 
+	position: absolute; 
+	top: 0;  width: 150px; 
+	opacity: 0;
 }
