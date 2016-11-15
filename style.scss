@@ -312,17 +312,7 @@ ul.img-list {
 	padding: 0; 
 	text-align: center;
 }
-ul.img-list li {
-	display: inline-block; 
-	height: auto; 
-	margin: 0 1em 1em 0; 
-	position: relative;
-	width: 720px;
-}
-
-span.text-content {  
-	background: rgba(255,255,255, 0.5); 
-	color: white; 
+ul.img-list li {color: white; 
 	cursor: pointer; 
 	display: table;
 	height: 405px;  
@@ -353,7 +343,4 @@ span.text-content {
 	top: 0; 
 	width: 150px; 
 	opacity: 0;
-}
-ul.img-list li:hover span.text-content { 
-	opacity: 1;
 }
