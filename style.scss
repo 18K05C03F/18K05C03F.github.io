@@ -365,3 +365,44 @@ span.text-content span {
 ul.img-list li:hover span.text-content {
 	opacity: 1;
 }
+
+ul.img-list { 
+	list-style-type: none; 
+	margin: 0; 
+	padding: 0; 
+	text-align: center;
+}
+ul.img-list li {
+	display: inline-block; 
+	height: auto; 
+	margin: 0 1em 1em 0; 
+	position: relative;
+	width: 720px;
+}
+
+span.text-content {  
+	background: rgba(255,255,255, 0.5); 
+	color: white; 
+	cursor: pointer; 
+	display: table;
+	height: 405px;  
+	left: 0; 
+	position: absolute;
+	top: 0; 
+	width: 720px;  
+	opacity: 0; 
+	-webkit-transition: opacity 1s; 
+	-moz-transition: opacity 1s;
+	-o-transition: opacity 1s;
+	transition: opacity 1s;
+} 
+
+span.text-content span {
+	display: table-cell; 
+	text-align: center;  
+	vertical-align: middle;
+}
+
+
+
+ul.img-list li:hover span.text-content {  opacity: 1;}
