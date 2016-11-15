@@ -17,6 +17,14 @@ html {
   font-size: 100%;
 }
 
+.container { 
+	margin: 0 auto; 
+	max-width: 740px; 
+	padding: 0 10px;  
+	width: 100%;
+	background-color: rgba(0, 0, 0, 0.6);
+}
+
 body {
 	background: url("http://wallpapercave.com/wp/dler0sO.jpg");
   font: 18px/1.4 $helvetica;
