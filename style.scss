@@ -321,6 +321,7 @@ nav {
     font-style: italic;
   }
 
+ay: tab
   .comments {
     margin-top: 10px;
   }
@@ -345,5 +346,3 @@ footer {
 
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
-
-ay: table-cell;381  text-align: center;382  vertical-align: middle;383}384385386span.text-content {387  background: rgba(0,0,0,0.5);388  color: white;389  cursor: pointer;390  display: table;391  height: 150px;392  left: 0;393  position: absolute;394  top: 0;395  width: 150px;396  opacity: 0;397}398399ul.img-list li:hover span.text-content {400  opacity: 1;401}402403span.text-content {404  background: rgba(0,0,0,0.5);405  color: white;406  cursor: pointer;407  display: table;408  height: 150px;409  left: 0;410  position: absolute;411  top: 0;412  width: 150px;413  opacity: 0;414  -webkit-transition: opacity 500ms;415  -moz-transition: opacity 500ms;416  -o-transition: opacity 500ms;417  transition: opacity 500ms;418}419
