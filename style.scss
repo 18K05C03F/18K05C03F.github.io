@@ -326,9 +326,21 @@ ul.img-list {
 
 ul.img-list li {
   display: inline-block;
-  height: auto;
+  height: 405px;
   margin: 0 1em 1em 0;
   position: relative;
+  width: 720px;
+}
+
+span.text-content {
+  background: rgba(255,255,255,0.5);
+  color: white;
+  cursor: pointer;
+  display: table;
+  height: 405px;
+  left: 0;
+  position: absolute;
+  top: 0;
   width: 720px;
 }
 
@@ -336,6 +348,19 @@ span.text-content span {
   display: table-cell;
   text-align: center;
   vertical-align: middle;
+}
+
+span.text-content {
+  background: rgba(255,255,255,0.5);
+  color: white;
+  cursor: pointer;
+  display: table;
+  height: 405px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 720px;
+  opacity: 0;
 }
 
 ul.img-list li:hover span.text-content {
