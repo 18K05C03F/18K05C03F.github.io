@@ -328,30 +328,24 @@ ul.img-list {
 
 ul.img-list li {
   display: inline-block;
-  height: auto;
+  height: 150px;
   margin: 0 1em 1em 0;
   position: relative;
-  width: 720px;
+  width: 150px;
 }
 
 
 span.text-content {
-  background: rgba(255,255,255, 0.5);
+  background: rgba(0,0,0,0.5);
   color: white;
   cursor: pointer;
   display: table;
-  height: 405px;
+  height: 150px;
   left: 0;
   position: absolute;
   top: 0;
-  width: 720px;
-  opacity: 0;
-  -webkit-transition: opacity 1s;
-  -moz-transition: opacity 1s;
-  -o-transition: opacity 1s;
-  transition: opacity 1s;
+  width: 150px;
 }
- 
 
 span.text-content span {
   display: table-cell;
@@ -359,10 +353,36 @@ span.text-content span {
   vertical-align: middle;
 }
 
-
-
+span.text-content {
+  background: rgba(0,0,0,0.5);
+  color: white;
+  cursor: pointer;
+  display: table;
+  height: 150px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 150px;
+  opacity: 0;
+}
 
 ul.img-list li:hover span.text-content {
   opacity: 1;
 }
 
+span.text-content {
+  background: rgba(0,0,0,0.5);
+  color: white;
+  cursor: pointer;
+  display: table;
+  height: 150px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 150px;
+  opacity: 0;
+  -webkit-transition: opacity 500ms;
+  -moz-transition: opacity 500ms;
+  -o-transition: opacity 500ms;
+  transition: opacity 500ms;
+}
