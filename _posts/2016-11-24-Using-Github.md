@@ -2,7 +2,7 @@
 title: Blogging Lesson8
 layout: post
 author: kaushal.ferwerda
-permalink: /using-github/
+permalink: /Blogging Lesson8/
 source-id: 1a6TXvdpgNWgXNTO0tQzj8IRyVK3bBya_JIIV6NH8frU
 published: true
 ---
