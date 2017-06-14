@@ -386,3 +386,12 @@ span.text-content {
   -o-transition: opacity 500ms;
   transition: opacity 500ms;
 }
+
+.hover-effect-1 .text-element{
+    opacity: .001;
+    filter:alpha(opacity=1); /* For IE8 and earlier */
+}
+.hover-effect-1:hover .text-element{
+    opacity: 1;
+    filter:alpha(opacity=100); /* For IE8 and earlier */
+}
